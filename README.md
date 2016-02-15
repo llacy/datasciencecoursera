@@ -1,2 +1,0 @@
-# datasciencecoursera
-First Github repo
